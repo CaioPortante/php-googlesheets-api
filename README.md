@@ -11,7 +11,7 @@
             Config your google credentials on your app at <a href='https://console.cloud.google.com'>https://console.cloud.google.com</a> and save as 'credentials.json'
         </p>
         <p>
-            Run 'composer require google/apicpent' on console
+            Run 'composer require google/apiclient' on console
         </p>
         <p>
             If you don't have the 'token.json'
