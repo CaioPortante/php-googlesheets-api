@@ -18,7 +18,7 @@
         </p>
         <ul>
             <li>
-                Exec this piece of code on the console and follow the path given
+                Exec index.php the console using 'php index.php' and follow the path given
             </li>
             <li>
                 After authorize the app, it will redirect to a page, on the URL get de code='VALUE' and insert into the console input
