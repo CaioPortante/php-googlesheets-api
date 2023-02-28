@@ -16,15 +16,17 @@
         <p>
             If you don't have the 'token.json'
         </p>
-        <p style="margin-left: 20px;">
-            Exec this piece of code on the console and follow the path given
-        </p>
-        <p style="margin-left: 20px;">
-            After authorize the app, it will redirect to a page, on the URL get de code='VALUE' and insert into the console input
-        </p>
-        <p style="margin-left: 20px;">
-            It will generate a file named token.json
-        </p>
+        <ul>
+            <li>
+                Exec this piece of code on the console and follow the path given
+            </li>
+            <li>
+                After authorize the app, it will redirect to a page, on the URL get de code='VALUE' and insert into the console input
+            </li>
+            <li>
+                It will generate a file named token.json
+            </li>
+        </ul>
         <p>
             Then insert the ID of your spreadsheet and the name of the page
         </p>
